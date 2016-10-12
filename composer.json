@@ -1,0 +1,16 @@
+{
+  "name": "philippbaschke/acf-betterplace",
+  "description": "ACF field to display your betterplace.org projects",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "Philipp Baschke",
+      "email": "philipp@baschke.com"
+    }
+  ],
+  "keywords": [
+    "wordpress", "acf", "wp", "plugin", "betterplace", "api"
+  ],
+  "require": {}
+}
