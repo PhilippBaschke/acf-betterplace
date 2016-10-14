@@ -12,5 +12,7 @@
   "keywords": [
     "wordpress", "acf", "wp", "plugin", "betterplace", "api"
   ],
-  "require": {}
+  "require": {
+    "composer/installers": "^1.2"
+  }
 }
